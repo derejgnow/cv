@@ -1,0 +1,124 @@
+body {
+    margin: 0px;
+    background-color: lightsteelblue;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.top-container {
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+.bottom-container {
+    background-color: lightgrey;
+    margin: 75px auto 0 auto;
+    padding: 50px 0px;
+}
+
+h1 {
+    font-family: 'Caveat', cursive;
+    font-size: 90px;
+    margin: 0 auto;
+    color: #06283D;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #06283D;
+    font-weight: normal;
+}
+
+h3 {
+    color: #256D85;
+}
+
+p.in-bc {
+    margin: 0;
+    padding: 10px 0px;
+    color: darkslategray;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-width: 5px;
+    border-color: grey;
+    width: 3%;
+    margin: 100px auto;
+}
+
+.hr-below-skills {
+    clear: right;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+}
+
+.skill-content {
+    text-align: left;
+    line-height: 2;
+}
+
+.footer-link {
+    margin: 0 20px;
+    color: darkslategray;
+}
+
+.btn {
+  border-radius: 8px;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+  font-size: 1.5rem;
+  background: #7799b0;
+  padding: 12px 20px 12px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: darkslategray;
+  text-decoration: none;
+}
+
+p.above-btn {
+    margin-bottom: 75px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkgrey;
+}
+
+.topcloud {
+    position: absolute;
+    top: 50px;
+    left: 60%
+}
+
+.bottomcloud{
+    position: absolute;
+    right: 60%
+
+}
+
+.profile-pic {
+    width: 20%;
+}
+
+.coding-pic {
+    width: 20%;
+    float: left;
+    margin: 0 20px 0 0;
+}
+
+.money-gif {
+    width: 20%;
+    float: right;
+    margin: 0 20px 0 0;
+}
+
